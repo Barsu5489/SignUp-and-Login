@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "johndoe@example.com",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "email": "janedoe@example.com",
+      "password": "password456"
+    },
+    {
+      "name": "t",
+      "email": "ebarsulai@gmail.com",
+      "password": "q",
+      "id": 3
+    },
+    {
+      "email": "ebarsulai@gmail.com",
+      "password": "q",
+      "id": 4
+    },
+    {
+      "email": "ebarsulai@gmail.com",
+      "password": "q",
+      "id": 5
+    },
+    {
+      "email": "ebarsulai@gmail.com",
+      "password": "q",
+      "id": 6
+    },
+    {
+      "email": "ebarsulai@gmail.com",
+      "password": "g",
+      "id": 7
+    },
+    {
+      "email": "ebarsulai@gmail.com",
+      "password": "h",
+      "id": 8
+    },
+    {
+      "email": "ebarsulai@gmail.com",
+      "password": "h",
+      "id": 9
+    },
+    {
+      "email": "ebarsulai@gmail.com",
+      "password": "h",
+      "id": 10
+    },
+    {
+      "name": "w",
+      "email": "ebarsulai@gmail.com",
+      "password": "1",
+      "id": 11
+    },
+    {
+      "email": "ebarsulao@gmail.com",
+      "password": "w",
+      "id": 12
+    }
+  ]
+}
