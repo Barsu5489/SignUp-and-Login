@@ -25,6 +25,7 @@ function Login() {
             localStorage.setItem('token', data.token);
             navigate('/signup');
         } catch (err) {
+            
             console.log(err);
         }
     };
