@@ -7,7 +7,6 @@
       "password": "password123"
     },
     {
-      
       "id": 2,
       "name": "Jane",
       "email": "janedoe@example.com",
@@ -64,6 +63,23 @@
       "email": "ebarsulao@gmail.com",
       "password": "w",
       "id": 12
+    },
+    {
+      "name": "Emmanuel",
+      "email": "ebarsulai@gmail.com",
+      "password": "12345",
+      "id": 13
+    },
+    {
+      "email": "ebarsulai@gmail.com",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 15
     }
   ]
 }
