@@ -17,7 +17,7 @@ function Signup() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            
+
             const res = await fetch('http://localhost:3000/users', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
@@ -39,6 +39,7 @@ function Signup() {
                     type="text"
                     value={name}
                     onChange={e => setName(e.target.value)}
+                    required
                 />
             </label>
             <br />
@@ -48,6 +49,7 @@ function Signup() {
                     type="email"
                     value={email}
                     onChange={e => setEmail(e.target.value)}
+                    required
                 />
             </label>
             <br />
@@ -57,6 +59,7 @@ function Signup() {
                     type="password"
                     value={password}
                     onChange={e => setPassword(e.target.value)}
+                    required
                 />
             </label>
             <br />
